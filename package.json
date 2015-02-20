@@ -28,7 +28,11 @@
     "validation",
     "validator",
     "number",
-    "numeric"
+    "numeric",
+    "is",
+    "type",
+    "check",
+    "isnumber"
   ],
   "bugs": {
     "url": "https://github.com/validate-io/number/issues"
