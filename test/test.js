@@ -38,6 +38,7 @@ describe( 'validate.io-number', function tests() {
 			null,
 			{},
 			NaN,
+			new Number( NaN ),
 			undefined
 		];
 
